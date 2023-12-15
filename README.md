@@ -1,2 +1,2 @@
 # charanrepo
-its charan repo
+print("hello world")
